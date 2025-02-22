@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
 ## Tree
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -34,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
 <!---LeetCode Topics End-->
