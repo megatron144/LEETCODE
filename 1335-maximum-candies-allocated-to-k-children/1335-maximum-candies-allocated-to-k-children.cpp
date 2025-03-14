@@ -15,7 +15,7 @@ public:
         int n=candies.size();
         if(tot<k)return 0;
         tot/=k;
-        long long l=1,h=(long long)candies[n-1]>=tot?candies[n-1]:tot,mid,ans;
+        long long l=1,h=tot,mid,ans;
         while(l<=h){
             mid=l+(h-l)/2;
             if(f(candies,mid,k)){
