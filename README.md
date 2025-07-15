@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Megatron144/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Megatron144/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Megatron144/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/Megatron144/LEETCODE/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Megatron144/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Megatron144/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Megatron144/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
