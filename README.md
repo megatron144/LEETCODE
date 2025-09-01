@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Megatron144/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Megatron144/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Megatron144/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1917-maximum-average-pass-ratio](https://github.com/Megatron144/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Megatron144/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Megatron144/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Megatron144/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Megatron144/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Megatron144/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Megatron144/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Megatron144/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1917-maximum-average-pass-ratio](https://github.com/Megatron144/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Megatron144/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Megatron144/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
