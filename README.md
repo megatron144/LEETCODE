@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Megatron144/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Megatron144/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Megatron144/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Megatron144/LEETCODE/tree/master/0155-min-stack) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 ## Array
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3763-separate-squares-i](https://github.com/Megatron144/LEETCODE/tree/master/3763-separate-squares-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/Megatron144/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 | [3822-fill-a-special-grid](https://github.com/Megatron144/LEETCODE/tree/master/3822-fill-a-special-grid) |
+| [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Megatron144/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 | [3763-separate-squares-i](https://github.com/Megatron144/LEETCODE/tree/master/3763-separate-squares-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/Megatron144/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Megatron144/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Megatron144/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Megatron144/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 ## Union Find
 |  |
 | ------- |
@@ -513,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/Megatron144/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
