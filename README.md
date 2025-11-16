@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Megatron144/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Megatron144/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Megatron144/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Megatron144/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Megatron144/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Megatron144/LEETCODE/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Megatron144/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Megatron144/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Megatron144/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Megatron144/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2050-count-good-numbers) |
