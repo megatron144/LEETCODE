@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Megatron144/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Megatron144/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Megatron144/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Megatron144/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2092-find-all-people-with-secret](https://github.com/Megatron144/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Megatron144/LEETCODE/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Megatron144/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Hash Table
 |  |
