@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Megatron144/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Megatron144/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0875-koko-eating-bananas](https://github.com/Megatron144/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Megatron144/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/Megatron144/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Megatron144/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Megatron144/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Megatron144/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
