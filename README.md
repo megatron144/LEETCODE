@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Megatron144/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/Megatron144/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Megatron144/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Megatron144/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Megatron144/LEETCODE/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Megatron144/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Megatron144/LEETCODE/tree/master/3483-alternating-groups-ii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/Megatron144/LEETCODE/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Megatron144/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Megatron144/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3453-separate-squares-i](https://github.com/Megatron144/LEETCODE/tree/master/3453-separate-squares-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Megatron144/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 | [3763-separate-squares-i](https://github.com/Megatron144/LEETCODE/tree/master/3763-separate-squares-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/Megatron144/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
