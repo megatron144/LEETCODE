@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Megatron144/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Megatron144/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Megatron144/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/Megatron144/LEETCODE/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Megatron144/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Megatron144/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Megatron144/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Megatron144/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Megatron144/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Megatron144/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Megatron144/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
