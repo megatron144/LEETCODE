@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Megatron144/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Megatron144/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Megatron144/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Megatron144/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Megatron144/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Megatron144/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Megatron144/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Megatron144/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Megatron144/LEETCODE/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3713-longest-balanced-substring-i](https://github.com/Megatron144/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Megatron144/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Megatron144/LEETCODE/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Megatron144/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Megatron144/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Megatron144/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
+| [3714-longest-balanced-substring-ii](https://github.com/Megatron144/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Megatron144/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Megatron144/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
