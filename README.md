@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Megatron144/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Megatron144/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Megatron144/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Megatron144/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Megatron144/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Megatron144/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Megatron144/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Megatron144/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Megatron144/LEETCODE/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Megatron144/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Megatron144/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Megatron144/LEETCODE/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Megatron144/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Megatron144/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Megatron144/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Megatron144/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Megatron144/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
