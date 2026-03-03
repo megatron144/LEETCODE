@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Megatron144/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Megatron144/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Megatron144/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Megatron144/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Megatron144/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Megatron144/LEETCODE/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Megatron144/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Megatron144/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/Megatron144/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Megatron144/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Megatron144/LEETCODE/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
