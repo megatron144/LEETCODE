@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/megatron144/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Megatron144/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0868-push-dominoes](https://github.com/Megatron144/LEETCODE/tree/master/0868-push-dominoes) |
+| [1092-shortest-common-supersequence](https://github.com/megatron144/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Megatron144/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/megatron144/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Megatron144/LEETCODE/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Megatron144/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1092-shortest-common-supersequence](https://github.com/megatron144/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1170-shortest-common-supersequence](https://github.com/Megatron144/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/megatron144/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -735,4 +737,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/megatron144/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/megatron144/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
