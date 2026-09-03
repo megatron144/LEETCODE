@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3822-fill-a-special-grid](https://github.com/Megatron144/LEETCODE/tree/master/3822-fill-a-special-grid) |
 | [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Megatron144/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/megatron144/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Megatron144/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Megatron144/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Megatron144/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/megatron144/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
