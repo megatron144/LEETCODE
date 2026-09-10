@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/megatron144/LEETCODE/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0401-binary-watch](https://github.com/Megatron144/LEETCODE/tree/master/0401-binary-watch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Megatron144/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Megatron144/LEETCODE/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/megatron144/LEETCODE/tree/master/0089-gray-code) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Megatron144/LEETCODE/tree/master/0342-power-of-four) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Megatron144/LEETCODE/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/megatron144/LEETCODE/tree/master/0089-gray-code) |
 | [0342-power-of-four](https://github.com/Megatron144/LEETCODE/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Megatron144/LEETCODE/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Megatron144/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
