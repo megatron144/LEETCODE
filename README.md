@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/megatron144/LEETCODE/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/megatron144/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/megatron144/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0227-basic-calculator-ii](https://github.com/megatron144/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0516-longest-palindromic-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Megatron144/LEETCODE/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/megatron144/LEETCODE/tree/master/0089-gray-code) |
+| [0227-basic-calculator-ii](https://github.com/megatron144/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0342-power-of-four](https://github.com/Megatron144/LEETCODE/tree/master/0342-power-of-four) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Megatron144/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Megatron144/LEETCODE/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/megatron144/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Megatron144/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Megatron144/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
