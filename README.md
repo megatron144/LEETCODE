@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/megatron144/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/megatron144/LEETCODE/tree/master/0306-additive-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/megatron144/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Megatron144/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/megatron144/LEETCODE/tree/master/0089-gray-code) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
+| [0306-additive-number](https://github.com/megatron144/LEETCODE/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Megatron144/LEETCODE/tree/master/0401-binary-watch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Megatron144/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
