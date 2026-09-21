@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/megatron144/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Megatron144/LEETCODE/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/megatron144/LEETCODE/tree/master/0072-edit-distance) |
+| [0087-scramble-string](https://github.com/megatron144/LEETCODE/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/megatron144/LEETCODE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/megatron144/LEETCODE/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/megatron144/LEETCODE/tree/master/0115-distinct-subsequences) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/megatron144/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/megatron144/LEETCODE/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Megatron144/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/megatron144/LEETCODE/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/megatron144/LEETCODE/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/megatron144/LEETCODE/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/megatron144/LEETCODE/tree/master/0115-distinct-subsequences) |
