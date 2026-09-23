@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/megatron144/LEETCODE/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/megatron144/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Megatron144/LEETCODE/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
@@ -903,4 +904,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/megatron144/LEETCODE/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
