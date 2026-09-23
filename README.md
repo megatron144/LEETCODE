@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/megatron144/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/megatron144/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/megatron144/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/megatron144/LEETCODE/tree/master/0212-word-search-ii) |
 | [0227-basic-calculator-ii](https://github.com/megatron144/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/megatron144/LEETCODE/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Megatron144/LEETCODE/tree/master/0135-candy) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/megatron144/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0212-word-search-ii](https://github.com/megatron144/LEETCODE/tree/master/0212-word-search-ii) |
 | [0307-range-sum-query-mutable](https://github.com/megatron144/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/megatron144/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/megatron144/LEETCODE/tree/master/0312-burst-balloons) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/megatron144/LEETCODE/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/megatron144/LEETCODE/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/megatron144/LEETCODE/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/megatron144/LEETCODE/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Megatron144/LEETCODE/tree/master/0401-binary-watch) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Megatron144/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Megatron144/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0212-word-search-ii](https://github.com/megatron144/LEETCODE/tree/master/0212-word-search-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Megatron144/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Megatron144/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -829,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/megatron144/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/megatron144/LEETCODE/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Megatron144/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Megatron144/LEETCODE/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Probability and Statistics
