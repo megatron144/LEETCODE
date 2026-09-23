@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/megatron144/LEETCODE/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/megatron144/LEETCODE/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/megatron144/LEETCODE/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Megatron144/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Megatron144/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Megatron144/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Megatron144/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/megatron144/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -791,12 +794,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/megatron144/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/megatron144/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
@@ -804,10 +809,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Megatron144/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -880,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/megatron144/LEETCODE/tree/master/0126-word-ladder-ii) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
