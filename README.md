@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Megatron144/LEETCODE/tree/master/1500-count-largest-group) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/megatron144/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Megatron144/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Megatron144/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Megatron144/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Megatron144/LEETCODE/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Megatron144/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Megatron144/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Megatron144/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Megatron144/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/megatron144/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Megatron144/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Megatron144/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Megatron144/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/megatron144/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Megatron144/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Megatron144/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Megatron144/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/megatron144/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Megatron144/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Megatron144/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Megatron144/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Megatron144/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
