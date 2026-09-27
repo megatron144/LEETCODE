@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/megatron144/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Megatron144/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/megatron144/LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/megatron144/LEETCODE/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Megatron144/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Megatron144/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Megatron144/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/megatron144/LEETCODE/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/megatron144/LEETCODE/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/megatron144/LEETCODE/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3227-find-missing-and-repeated-values](https://github.com/Megatron144/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Megatron144/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Megatron144/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Megatron144/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/megatron144/LEETCODE/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/megatron144/LEETCODE/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
+| [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/megatron144/LEETCODE/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Megatron144/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Megatron144/LEETCODE/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Megatron144/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
