@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/megatron144/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0146-lru-cache](https://github.com/megatron144/LEETCODE/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/megatron144/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0560-subarray-sum-equals-k](https://github.com/megatron144/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Megatron144/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Megatron144/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/megatron144/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/megatron144/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Megatron144/LEETCODE/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/megatron144/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Megatron144/LEETCODE/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Megatron144/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/megatron144/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
