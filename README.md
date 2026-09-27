@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/megatron144/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Megatron144/LEETCODE/tree/master/1170-shortest-common-supersequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/megatron144/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Megatron144/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Megatron144/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Megatron144/LEETCODE/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/megatron144/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/megatron144/LEETCODE/tree/master/0316-remove-duplicate-letters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Megatron144/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Megatron144/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
@@ -935,4 +937,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/megatron144/LEETCODE/tree/master/0365-water-and-jug-problem) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
