@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Megatron144/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Megatron144/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Megatron144/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/megatron144/LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Megatron144/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Megatron144/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Megatron144/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Megatron144/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/megatron144/LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Megatron144/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Megatron144/LEETCODE/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Megatron144/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
