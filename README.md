@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Megatron144/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Megatron144/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/megatron144/LEETCODE/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3548-find-the-count-of-good-integers](https://github.com/Megatron144/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Megatron144/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Megatron144/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Megatron144/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/megatron144/LEETCODE/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/megatron144/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
+| [3543-maximum-weighted-k-edge-path](https://github.com/megatron144/LEETCODE/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Megatron144/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Megatron144/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Megatron144/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3543-maximum-weighted-k-edge-path](https://github.com/megatron144/LEETCODE/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Megatron144/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Longest Common Subsequence
 |  |
