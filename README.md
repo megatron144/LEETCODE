@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/megatron144/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/megatron144/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Megatron144/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Megatron144/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Megatron144/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3469-find-minimum-cost-to-remove-array-elements](https://github.com/megatron144/LEETCODE/tree/master/3469-find-minimum-cost-to-remove-array-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/megatron144/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/megatron144/LEETCODE/tree/master/3543-maximum-weighted-k-edge-path) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/megatron144/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Megatron144/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Megatron144/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Megatron144/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
