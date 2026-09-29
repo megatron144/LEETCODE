@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Megatron144/LEETCODE/tree/master/3483-alternating-groups-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Megatron144/LEETCODE/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/megatron144/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Megatron144/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Megatron144/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Megatron144/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Megatron144/LEETCODE/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/Megatron144/LEETCODE/tree/master/3321-type-of-triangle) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/megatron144/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Megatron144/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Megatron144/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Megatron144/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Megatron144/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -839,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Megatron144/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Megatron144/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Megatron144/LEETCODE/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Megatron144/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
