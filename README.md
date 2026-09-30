@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/megatron144/LEETCODE/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/megatron144/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Megatron144/LEETCODE/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/megatron144/LEETCODE/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/megatron144/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/megatron144/LEETCODE/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/megatron144/LEETCODE/tree/master/0313-super-ugly-number) |
 | [0337-house-robber-iii](https://github.com/megatron144/LEETCODE/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/megatron144/LEETCODE/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Megatron144/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
