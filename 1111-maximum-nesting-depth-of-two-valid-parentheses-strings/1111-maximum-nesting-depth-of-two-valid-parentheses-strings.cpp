@@ -1,12 +1,7 @@
 class Solution {
 public:
     vector<int> maxDepthAfterSplit(string seq) {
-        int curr=0,md=0,n=seq.size();
-        for(auto& x: seq){
-            if(x=='(')curr++;
-            else curr--;
-            md=max(md,curr);
-        }
+        int n=seq.size();
         vector<int> ans;
         int c1,c2;
         c1=1,c2=0;
