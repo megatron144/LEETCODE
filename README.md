@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Megatron144/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Megatron144/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0970-powerful-integers](https://github.com/megatron144/LEETCODE/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Megatron144/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/megatron144/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Megatron144/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Megatron144/LEETCODE/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Megatron144/LEETCODE/tree/master/0867-new-21-game) |
+| [0970-powerful-integers](https://github.com/megatron144/LEETCODE/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Megatron144/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Megatron144/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Megatron144/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0970-powerful-integers](https://github.com/megatron144/LEETCODE/tree/master/0970-powerful-integers) |
 | [1656-count-good-triplets](https://github.com/Megatron144/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
