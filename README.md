@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Megatron144/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/megatron144/LEETCODE/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/megatron144/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Megatron144/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Megatron144/LEETCODE/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/megatron144/LEETCODE/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/megatron144/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3822-fill-a-special-grid](https://github.com/Megatron144/LEETCODE/tree/master/3822-fill-a-special-grid) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Megatron144/LEETCODE/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Megatron144/LEETCODE/tree/master/0867-new-21-game) |
 | [0970-powerful-integers](https://github.com/megatron144/LEETCODE/tree/master/0970-powerful-integers) |
+| [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Megatron144/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Megatron144/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Megatron144/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -771,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/megatron144/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0969-pancake-sorting](https://github.com/megatron144/LEETCODE/tree/master/0969-pancake-sorting) |
+| [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/megatron144/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/megatron144/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Megatron144/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -808,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/megatron144/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1917-maximum-average-pass-ratio](https://github.com/Megatron144/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Megatron144/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
@@ -937,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Megatron144/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Megatron144/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Linked List
@@ -1000,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/megatron144/LEETCODE/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/megatron144/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -1057,4 +1064,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/megatron144/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
