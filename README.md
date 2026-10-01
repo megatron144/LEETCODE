@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/megatron144/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Megatron144/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/megatron144/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Megatron144/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/megatron144/LEETCODE/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Megatron144/LEETCODE/tree/master/0401-binary-watch) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/megatron144/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Megatron144/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
