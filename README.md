@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Megatron144/LEETCODE/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3161-block-placement-queries](https://github.com/megatron144/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Megatron144/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/megatron144/LEETCODE/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Megatron144/LEETCODE/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Megatron144/LEETCODE/tree/master/3227-find-missing-and-repeated-values) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/megatron144/LEETCODE/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Megatron144/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/megatron144/LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3161-block-placement-queries](https://github.com/megatron144/LEETCODE/tree/master/3161-block-placement-queries) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/megatron144/LEETCODE/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/megatron144/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Megatron144/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Megatron144/LEETCODE/tree/master/3453-separate-squares-i) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Megatron144/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Megatron144/LEETCODE/tree/master/2478-longest-nice-subarray) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/megatron144/LEETCODE/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Megatron144/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Megatron144/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -917,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3161-block-placement-queries](https://github.com/megatron144/LEETCODE/tree/master/3161-block-placement-queries) |
+| [3209-number-of-subarrays-with-and-value-of-k](https://github.com/megatron144/LEETCODE/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3791-fruits-into-baskets-iii](https://github.com/Megatron144/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
