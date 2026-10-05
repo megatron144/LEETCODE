@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/megatron144/LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/megatron144/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Megatron144/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/Megatron144/LEETCODE/tree/master/0868-push-dominoes) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/megatron144/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Megatron144/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/megatron144/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/Megatron144/LEETCODE/tree/master/0799-champagne-tower) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/megatron144/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/megatron144/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/megatron144/LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/megatron144/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/megatron144/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/megatron144/LEETCODE/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/megatron144/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0969-pancake-sorting](https://github.com/megatron144/LEETCODE/tree/master/0969-pancake-sorting) |
@@ -1037,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/megatron144/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
