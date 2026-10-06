@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Megatron144/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Megatron144/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Megatron144/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/megatron144/LEETCODE/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/Megatron144/LEETCODE/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Megatron144/LEETCODE/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Megatron144/LEETCODE/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/megatron144/LEETCODE/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/megatron144/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/megatron144/LEETCODE/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
