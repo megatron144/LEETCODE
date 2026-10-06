@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Megatron144/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Megatron144/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Megatron144/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Megatron144/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [3096-minimum-levels-to-gain-more-points](https://github.com/megatron144/LEETCODE/tree/master/3096-minimum-levels-to-gain-more-points) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Megatron144/LEETCODE/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
