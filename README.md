@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Megatron144/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Megatron144/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/megatron144/LEETCODE/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Megatron144/LEETCODE/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Megatron144/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Megatron144/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Megatron144/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Megatron144/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/megatron144/LEETCODE/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Megatron144/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1927-sum-game](https://github.com/megatron144/LEETCODE/tree/master/1927-sum-game) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Megatron144/LEETCODE/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Megatron144/LEETCODE/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/megatron144/LEETCODE/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2048-build-array-from-permutation](https://github.com/Megatron144/LEETCODE/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Megatron144/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Megatron144/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
