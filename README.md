@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Megatron144/LEETCODE/tree/master/1500-count-largest-group) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/megatron144/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Megatron144/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1630-arithmetic-subarrays](https://github.com/megatron144/LEETCODE/tree/master/1630-arithmetic-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Megatron144/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/Megatron144/LEETCODE/tree/master/2107-find-unique-binary-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Megatron144/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Megatron144/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
+| [1630-arithmetic-subarrays](https://github.com/megatron144/LEETCODE/tree/master/1630-arithmetic-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Megatron144/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Megatron144/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1048-longest-string-chain](https://github.com/megatron144/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/megatron144/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1630-arithmetic-subarrays](https://github.com/megatron144/LEETCODE/tree/master/1630-arithmetic-subarrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Megatron144/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Megatron144/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/Megatron144/LEETCODE/tree/master/2092-find-all-people-with-secret) |
