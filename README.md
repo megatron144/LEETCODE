@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Megatron144/LEETCODE/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/megatron144/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Megatron144/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/megatron144/LEETCODE/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/megatron144/LEETCODE/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Megatron144/LEETCODE/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
+| [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/megatron144/LEETCODE/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/megatron144/LEETCODE/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3137-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/megatron144/LEETCODE/tree/master/3137-minimum-number-of-operations-to-make-word-k-periodic) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
+| [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Megatron144/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Megatron144/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Megatron144/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Megatron144/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Megatron144/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Megatron144/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Megatron144/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
