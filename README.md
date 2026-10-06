@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Megatron144/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0956-tallest-billboard](https://github.com/megatron144/LEETCODE/tree/master/0956-tallest-billboard) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Megatron144/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0969-pancake-sorting](https://github.com/megatron144/LEETCODE/tree/master/0969-pancake-sorting) |
 | [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Megatron144/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/megatron144/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+| [0956-tallest-billboard](https://github.com/megatron144/LEETCODE/tree/master/0956-tallest-billboard) |
 | [0968-binary-tree-cameras](https://github.com/megatron144/LEETCODE/tree/master/0968-binary-tree-cameras) |
 | [1048-longest-string-chain](https://github.com/megatron144/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/megatron144/LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -1088,4 +1090,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+## Meet in the Middle
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/megatron144/LEETCODE/tree/master/0956-tallest-billboard) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/megatron144/LEETCODE/tree/master/0956-tallest-billboard) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0956-tallest-billboard](https://github.com/megatron144/LEETCODE/tree/master/0956-tallest-billboard) |
 <!---LeetCode Topics End-->
