@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Megatron144/LEETCODE/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Megatron144/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Megatron144/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/megatron144/LEETCODE/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3871-count-commas-in-range-ii](https://github.com/megatron144/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/megatron144/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Megatron144/LEETCODE/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Megatron144/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/megatron144/LEETCODE/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 ## Queue
 |  |
 | ------- |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/Megatron144/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Megatron144/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Megatron144/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/megatron144/LEETCODE/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 ## Enumeration
 |  |
 | ------- |
