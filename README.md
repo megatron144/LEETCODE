@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Megatron144/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/Megatron144/LEETCODE/tree/master/0868-push-dominoes) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/megatron144/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/megatron144/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/megatron144/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/megatron144/LEETCODE/tree/master/1092-shortest-common-supersequence) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/megatron144/LEETCODE/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/megatron144/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/megatron144/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/megatron144/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/megatron144/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0969-pancake-sorting](https://github.com/megatron144/LEETCODE/tree/master/0969-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Megatron144/LEETCODE/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Megatron144/LEETCODE/tree/master/1448-maximum-69-number) |
@@ -1049,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/megatron144/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/megatron144/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/megatron144/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
