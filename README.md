@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Megatron144/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/megatron144/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/megatron144/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/megatron144/LEETCODE/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Megatron144/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Megatron144/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Megatron144/LEETCODE/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1927-sum-game](https://github.com/megatron144/LEETCODE/tree/master/1927-sum-game) |
+| [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/megatron144/LEETCODE/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Megatron144/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
