@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/megatron144/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/megatron144/LEETCODE/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/megatron144/LEETCODE/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/megatron144/LEETCODE/tree/master/0318-maximum-product-of-word-lengths) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/megatron144/LEETCODE/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/megatron144/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Megatron144/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/megatron144/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/megatron144/LEETCODE/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Megatron144/LEETCODE/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/megatron144/LEETCODE/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Megatron144/LEETCODE/tree/master/0401-binary-watch) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/megatron144/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
