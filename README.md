@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Megatron144/LEETCODE/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Megatron144/LEETCODE/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1473-paint-house-iii](https://github.com/megatron144/LEETCODE/tree/master/1473-paint-house-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/megatron144/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Megatron144/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Megatron144/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Megatron144/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/megatron144/LEETCODE/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1473-paint-house-iii](https://github.com/megatron144/LEETCODE/tree/master/1473-paint-house-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/megatron144/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Megatron144/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/megatron144/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
