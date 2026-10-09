@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/megatron144/LEETCODE/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/megatron144/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0738-monotone-increasing-digits](https://github.com/megatron144/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Megatron144/LEETCODE/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Megatron144/LEETCODE/tree/master/0867-new-21-game) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/megatron144/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/megatron144/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0738-monotone-increasing-digits](https://github.com/megatron144/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/megatron144/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0969-pancake-sorting](https://github.com/megatron144/LEETCODE/tree/master/0969-pancake-sorting) |
