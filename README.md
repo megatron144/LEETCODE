@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Megatron144/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0875-koko-eating-bananas](https://github.com/Megatron144/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/megatron144/LEETCODE/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Megatron144/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Megatron144/LEETCODE/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Megatron144/LEETCODE/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/megatron144/LEETCODE/tree/master/0877-stone-game) |
 | [0970-powerful-integers](https://github.com/megatron144/LEETCODE/tree/master/0970-powerful-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Megatron144/LEETCODE/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Megatron144/LEETCODE/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Megatron144/LEETCODE/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Megatron144/LEETCODE/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/megatron144/LEETCODE/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Megatron144/LEETCODE/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-distinct-subsequences-ii](https://github.com/megatron144/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
@@ -1033,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/megatron144/LEETCODE/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/megatron144/LEETCODE/tree/master/1927-sum-game) |
 ## Longest Increasing Subsequence
@@ -1043,10 +1047,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/megatron144/LEETCODE/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/megatron144/LEETCODE/tree/master/0877-stone-game) |
 | [1872-stone-game-viii](https://github.com/megatron144/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Sqrt Decomposition
 |  |
