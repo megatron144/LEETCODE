@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Megatron144/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3763-separate-squares-i](https://github.com/Megatron144/LEETCODE/tree/master/3763-separate-squares-i) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/megatron144/LEETCODE/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3791-fruits-into-baskets-iii](https://github.com/Megatron144/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Megatron144/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3822-fill-a-special-grid](https://github.com/Megatron144/LEETCODE/tree/master/3822-fill-a-special-grid) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Megatron144/LEETCODE/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Megatron144/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Megatron144/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/megatron144/LEETCODE/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Recursion
 |  |
 | ------- |
@@ -957,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/megatron144/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/megatron144/LEETCODE/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/megatron144/LEETCODE/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3791-fruits-into-baskets-iii](https://github.com/Megatron144/LEETCODE/tree/master/3791-fruits-into-baskets-iii) |
 ## Merge Sort
 |  |
