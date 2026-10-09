@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/megatron144/LEETCODE/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/megatron144/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/Megatron144/LEETCODE/tree/master/0386-lexicographical-numbers) |
+| [0685-redundant-connection-ii](https://github.com/megatron144/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Megatron144/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/megatron144/LEETCODE/tree/master/0968-binary-tree-cameras) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/megatron144/LEETCODE/tree/master/0126-word-ladder-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/megatron144/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/megatron144/LEETCODE/tree/master/0365-water-and-jug-problem) |
+| [0685-redundant-connection-ii](https://github.com/megatron144/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Megatron144/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/megatron144/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -1030,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0685-redundant-connection-ii](https://github.com/megatron144/LEETCODE/tree/master/0685-redundant-connection-ii) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/megatron144/LEETCODE/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Megatron144/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Longest Common Subsequence
@@ -1174,4 +1177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3044-most-frequent-prime](https://github.com/megatron144/LEETCODE/tree/master/3044-most-frequent-prime) |
+## Union-Find
+|  |
+| ------- |
+| [0685-redundant-connection-ii](https://github.com/megatron144/LEETCODE/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
