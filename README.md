@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Megatron144/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/megatron144/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Megatron144/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Megatron144/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Megatron144/LEETCODE/tree/master/2478-longest-nice-subarray) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/Megatron144/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Megatron144/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/megatron144/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Megatron144/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Megatron144/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Megatron144/LEETCODE/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Megatron144/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Megatron144/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/megatron144/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Megatron144/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Megatron144/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/megatron144/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
 | [1917-maximum-average-pass-ratio](https://github.com/Megatron144/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/megatron144/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Megatron144/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Megatron144/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/megatron144/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Megatron144/LEETCODE/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Megatron144/LEETCODE/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/megatron144/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/megatron144/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Megatron144/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
