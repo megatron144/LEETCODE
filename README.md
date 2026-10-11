@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Megatron144/LEETCODE/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Megatron144/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Megatron144/LEETCODE/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2542-maximum-subsequence-score](https://github.com/megatron144/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [2551-apply-operations-to-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Megatron144/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Megatron144/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Megatron144/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/megatron144/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Megatron144/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/megatron144/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Megatron144/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Megatron144/LEETCODE/tree/master/2689-rearranging-fruits) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/megatron144/LEETCODE/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1917-maximum-average-pass-ratio](https://github.com/Megatron144/LEETCODE/tree/master/1917-maximum-average-pass-ratio) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/megatron144/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2542-maximum-subsequence-score](https://github.com/megatron144/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Megatron144/LEETCODE/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Megatron144/LEETCODE/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/megatron144/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/megatron144/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Megatron144/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2542-maximum-subsequence-score](https://github.com/megatron144/LEETCODE/tree/master/2542-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Megatron144/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Megatron144/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
