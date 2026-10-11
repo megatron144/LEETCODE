@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Megatron144/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Megatron144/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Megatron144/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/megatron144/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Megatron144/LEETCODE/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/megatron144/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Megatron144/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3044-most-frequent-prime](https://github.com/megatron144/LEETCODE/tree/master/3044-most-frequent-prime) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/megatron144/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
