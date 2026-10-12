@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Megatron144/LEETCODE/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/megatron144/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/megatron144/LEETCODE/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/megatron144/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/megatron144/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Megatron144/LEETCODE/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Megatron144/LEETCODE/tree/master/2478-longest-nice-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/megatron144/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/megatron144/LEETCODE/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Megatron144/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Megatron144/LEETCODE/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Megatron144/LEETCODE/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Megatron144/LEETCODE/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Megatron144/LEETCODE/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/megatron144/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Megatron144/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Megatron144/LEETCODE/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Megatron144/LEETCODE/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
