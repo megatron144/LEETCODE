@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/megatron144/LEETCODE/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3871-count-commas-in-range-ii](https://github.com/megatron144/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/megatron144/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4002-count-valid-sequences](https://github.com/megatron144/LEETCODE/tree/master/4002-count-valid-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Megatron144/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Megatron144/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/megatron144/LEETCODE/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
+| [4002-count-valid-sequences](https://github.com/megatron144/LEETCODE/tree/master/4002-count-valid-sequences) |
 ## Enumeration
 |  |
 | ------- |
