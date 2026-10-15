@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/megatron144/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/megatron144/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/megatron144/LEETCODE/tree/master/3039-apply-operations-to-make-string-empty) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Megatron144/LEETCODE/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/megatron144/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/megatron144/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Megatron144/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/megatron144/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/megatron144/LEETCODE/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
@@ -1007,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/megatron144/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/megatron144/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/megatron144/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/megatron144/LEETCODE/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
