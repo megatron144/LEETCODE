@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/megatron144/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/megatron144/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/megatron144/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/megatron144/LEETCODE/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3044-most-frequent-prime](https://github.com/megatron144/LEETCODE/tree/master/3044-most-frequent-prime) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/megatron144/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/megatron144/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Megatron144/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Megatron144/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
@@ -1006,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/megatron144/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/megatron144/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/megatron144/LEETCODE/tree/master/3161-block-placement-queries) |
 ## Segment Tree
 |  |
@@ -1015,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/megatron144/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/megatron144/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/megatron144/LEETCODE/tree/master/3161-block-placement-queries) |
 | [3209-number-of-subarrays-with-and-value-of-k](https://github.com/megatron144/LEETCODE/tree/master/3209-number-of-subarrays-with-and-value-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
