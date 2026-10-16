@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/Megatron144/LEETCODE/tree/master/2915-count-of-interesting-subarrays) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/megatron144/LEETCODE/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2933-high-access-employees](https://github.com/megatron144/LEETCODE/tree/master/2933-high-access-employees) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/megatron144/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/megatron144/LEETCODE/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3044-most-frequent-prime](https://github.com/megatron144/LEETCODE/tree/master/3044-most-frequent-prime) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/megatron144/LEETCODE/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Megatron144/LEETCODE/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Megatron144/LEETCODE/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Megatron144/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/megatron144/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3039-apply-operations-to-make-string-empty](https://github.com/megatron144/LEETCODE/tree/master/3039-apply-operations-to-make-string-empty) |
 | [3044-most-frequent-prime](https://github.com/megatron144/LEETCODE/tree/master/3044-most-frequent-prime) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Megatron144/LEETCODE/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Megatron144/LEETCODE/tree/master/2215-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/megatron144/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Megatron144/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/megatron144/LEETCODE/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3044-most-frequent-prime](https://github.com/megatron144/LEETCODE/tree/master/3044-most-frequent-prime) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/megatron144/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
