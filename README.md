@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Megatron144/LEETCODE/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Megatron144/LEETCODE/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Megatron144/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/megatron144/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/megatron144/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Megatron144/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Prefix Sum
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Megatron144/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Megatron144/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Megatron144/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/megatron144/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Megatron144/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Megatron144/LEETCODE/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
