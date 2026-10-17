@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/megatron144/LEETCODE/tree/master/3543-maximum-weighted-k-edge-path) |
 | [3548-find-the-count-of-good-integers](https://github.com/Megatron144/LEETCODE/tree/master/3548-find-the-count-of-good-integers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/megatron144/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Megatron144/LEETCODE/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/megatron144/LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Megatron144/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Megatron144/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/megatron144/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/megatron144/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/megatron144/LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/megatron144/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Megatron144/LEETCODE/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/megatron144/LEETCODE/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3430-count-days-without-meetings](https://github.com/Megatron144/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Megatron144/LEETCODE/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/megatron144/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/megatron144/LEETCODE/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3647-zero-array-transformation-iii](https://github.com/Megatron144/LEETCODE/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Megatron144/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
