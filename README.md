@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Megatron144/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/megatron144/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Megatron144/LEETCODE/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Megatron144/LEETCODE/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Megatron144/LEETCODE/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Megatron144/LEETCODE/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/megatron144/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/megatron144/LEETCODE/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Hash Table
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/megatron144/LEETCODE/tree/master/1473-paint-house-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/megatron144/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Megatron144/LEETCODE/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Megatron144/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1590-make-sum-divisible-by-p](https://github.com/Megatron144/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/megatron144/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Megatron144/LEETCODE/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/megatron144/LEETCODE/tree/master/0973-k-closest-points-to-origin) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Megatron144/LEETCODE/tree/master/2280-count-good-triplets-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Megatron144/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3822-fill-a-special-grid](https://github.com/Megatron144/LEETCODE/tree/master/3822-fill-a-special-grid) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Megatron144/LEETCODE/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Megatron144/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Megatron144/LEETCODE/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/megatron144/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Megatron144/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Megatron144/LEETCODE/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -610,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1473-paint-house-iii](https://github.com/megatron144/LEETCODE/tree/master/1473-paint-house-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/megatron144/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Megatron144/LEETCODE/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/megatron144/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Megatron144/LEETCODE/tree/master/1628-count-submatrices-with-all-ones) |
@@ -792,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Megatron144/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Megatron144/LEETCODE/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Megatron144/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Counting
@@ -981,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/megatron144/LEETCODE/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Megatron144/LEETCODE/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Megatron144/LEETCODE/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1235,8 +1243,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0685-redundant-connection-ii](https://github.com/megatron144/LEETCODE/tree/master/0685-redundant-connection-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Coloring
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/megatron144/LEETCODE/tree/master/1042-flower-planting-with-no-adjacent) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/megatron144/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
