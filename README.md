@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Megatron144/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/megatron144/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/megatron144/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Backtracking
 |  |
 | ------- |
