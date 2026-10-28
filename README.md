@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/Megatron144/LEETCODE/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Megatron144/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/megatron144/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/megatron144/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/megatron144/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Backtracking
 |  |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3699-number-of-zigzag-arrays-i](https://github.com/megatron144/LEETCODE/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/megatron144/LEETCODE/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Megatron144/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/megatron144/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Megatron144/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Megatron144/LEETCODE/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3822-fill-a-special-grid](https://github.com/Megatron144/LEETCODE/tree/master/3822-fill-a-special-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/megatron144/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/megatron144/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/megatron144/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/megatron144/LEETCODE/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/megatron144/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
