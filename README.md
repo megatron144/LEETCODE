@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/megatron144/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Megatron144/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/megatron144/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/megatron144/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/megatron144/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/megatron144/LEETCODE/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/megatron144/LEETCODE/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/megatron144/LEETCODE/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Megatron144/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/megatron144/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0738-monotone-increasing-digits](https://github.com/megatron144/LEETCODE/tree/master/0738-monotone-increasing-digits) |
 | [0797-rabbits-in-forest](https://github.com/Megatron144/LEETCODE/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Megatron144/LEETCODE/tree/master/0826-soup-servings) |
